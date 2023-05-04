@@ -16,4 +16,4 @@
 4. # Видаляємо контакт
    node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
-`${https://monosnap.com/file/9lbEs1aWpiJQcQPfJV5LgRrRJJvlyJ}`
+https://monosnap.com/file/9lbEs1aWpiJQcQPfJV5LgRrRJJvlyJ
